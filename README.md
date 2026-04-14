@@ -23,7 +23,8 @@ Bucket List Travels is a travel-focused website designed to inspire users to exp
 - Destinations page showcasing popular travel locations
 - Travel guides with tips and recommendations
 - Experiences page highlighting different travel activities
-- Contact page with user enquiry options
+- Contact page with enquiry form
+- Fully functional navigation across all pages
 
 ## Sitemap
 
@@ -38,10 +39,10 @@ Bucket List Travels is a travel-focused website designed to inspire users to exp
 ## Timeline and Milestones
 
 - Project planning and research completed
-- HTML structure in progress
+- HTML structure completed
+- Navigation implemented and tested
 - CSS styling to be implemented
-- Javacript functionality to be implemented
-- Final testing and submission
+- Final testing and submission pending
 
 ## Part 1 Details
 
@@ -61,3 +62,7 @@ Includes:
 - Added contact.html
 - Implemented navigation across all pages
 - Tested navigation and ensured all links work correctly
+- Included detailed descriptions, lists, and travel tips
+- Added images for all destinations
+- Fixed broken image links
+- Standardied all images to local file paths
