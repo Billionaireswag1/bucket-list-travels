@@ -12,43 +12,34 @@ Project: Website Development Assignment
 
 Bucket List Travels is a travel-focused website designed to inspire users to explore destinations around the world. The platform provides curated travel ideas, destination insights, and travel experiences to help users discover and plan future trips.
 
-The website is built using HTML and follows semantic structure principles, including the use of header, main, section, and footer elements to organise content effectively.
+The website is designed for travel enthusiasts who are looking for inspiration and guidance when planning trips.
+
+The website is built using HTML and follows semantic structure principles, including the use of header, main, section, and footer elements to organise content in a clear and structured way.
 
 This website focuses on content-driven travel inspiration rather than direct booking services.
+
+## The website is designed to be easy to navigate, allowing users to find and explore content without difficulty.
 
 ---
 
 ## Website Goals and Objectives
 
-- Create a functional and well-structured travel website
-- Provide clear and engaging content about destinations, guides, and experiences
-- Ensure easy navigation across all pages
-- Present information in a way that supports travel planning and inspiration
-- Maintain consistency in layout and structure across the site
-
----
+- Attract at least 500 unique visitors to the website within the initial launch period
+- Achieve an average of at least 3 pages per session to indicate user engagement
+- Ensure users can navigate between key pages within 2–3 clicks
+- Provide at least 5 detailed destination or experience entries across the website
 
 ## Key Features and Functionality
 
+---
+
 - Homepage with introduction and featured content
-- Destinations page showcasing popular travel locations
+- Destinations page showcasing popular travel locations with images and brief descriptions
 - Travel Guides page with general tips and recommendations
 - Experiences page highlighting different types of travel activities
 - Contact page for user enquiries
 - Consistent header, navigation menu, and footer across all pages
 - Internal links connecting pages for improved user navigation
-
----
-
-## Website Structure (Sitemap)
-
-- Home (index.html)
-  - Destinations (destinations.html)
-  - Travel Guides (guides.html)
-  - Experiences (experiences.html)
-  - Contact (contact.html)
-
-Future improvements may include additional pages with more detailed destination and travel content.
 
 ---
 
@@ -64,13 +55,25 @@ Future improvements may include additional pages with more detailed destination 
 
 ---
 
+## Website Structure (Sitemap)
+
+- Home (index.html)
+  - Destinations (destinations.html)
+  - Travel Guides (guides.html)
+  - Experiences (experiences.html)
+  - Contact (contact.html)
+
+Future improvements may include additional pages with more detailed destination and travel content.
+
+---
+
 ## Part 1 Details
 
-This project includes:
+This project includes the foundational planning and development of the website, focusing on understanding the target organisation, researching relevant content, and designing a clear and user-friendly structure.
 
 - Identification of the target organisation
-- Content research and sourcing
-- Website planning and structure development
+- Content research and sourcing to determine relevant website content
+- Website planning and structure development, including sitemap and layout
 
 ---
 
@@ -85,7 +88,7 @@ This project includes:
 - Implemented navigation across all pages
 - Tested navigation and fixed broken links
 - Added structured content for all pages
-- Replaced generic tips with realistic planning-focused content
+- Replaced generic tips with realistic, planning-focused content
 - Added images to improve visual appeal
 - Fixed broken image links
 - Standardised all images to local file paths
@@ -96,4 +99,14 @@ This project includes:
 
 ## Notes
 
-This website is designed for educational purposes and demonstrates the use of HTML to create a multi-page website with structured content and navigation.
+This website was developed for educational purposes and demonstrates the use of HTML to create a structured multi-page website with clear navigation and organised content.
+
+## References
+
+Tripadvisor. (2026). Available at: https://www.tripadvisor.com (Accessed: 11 April 2026).
+
+Airbnb. (2026). Available at: https://www.airbnb.com (Accessed: 11 April 2026).
+
+Nielsen Norman Group. (2020). Available at: https://www.nngroup.com (Accessed: 11 April 2026).
+
+The Lux Travel Co. (2026). Available at: https://theluxtravelco.co.za/ (Accessed: 11 April 2026).
