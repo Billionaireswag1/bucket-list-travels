@@ -48,8 +48,9 @@ The website is designed to be easy to navigate, allowing users to find and explo
 - Navigation implemented and tested across all pages
 - Images added and standardised using local file paths
 - Content refined for clarity and consistency
-- CSS styling to be implemented in the next phase
-- Final testing and submission pending
+- CSS styling implemented across all pages
+- Responsive testing completed using browser developer tools
+- Wireframe and testing evidence added to the README
 
 ---
 
@@ -73,17 +74,19 @@ The following low-fidelity wireframes were added based on the feedback received 
 
 The home page wireframe shows the planned structure for the header, navigation menu, hero image, introduction content, featured experiences and footer.
 
-![Home Page Wireframe](images/index.jpeg)
+## ![Home Page Wireframe](images/index.jpeg)
 
 ### Destinations Page Wireframe
 
 The destinations page wireframe shows how destination content is arranged using page headings, destination sections, images, descriptions and navigation links.
 
-![Destinations Page Wireframe](images/destinations.jpeg)
+## ![Destinations Page Wireframe](images/destinations.jpeg)
 
 ### Travel Guides Page Wireframe
 
 The travel guides page wireframe shows the layout for travel advice, guide sections and supporting content to help users plan their trips.
+
+---
 
 ![Travel Guides Page Wireframe](images/guides.jpeg)
 
@@ -93,11 +96,15 @@ The experiences page wireframe shows the layout for different travel experience 
 
 ![Experiences Page Wireframe](images/experiences.jpeg)
 
+---
+
 ### Contact Page Wireframe
 
 The contact page wireframe shows the planned layout for contact details, enquiry information and the website footer.
 
 ![Contact Page Wireframe](images/contactus.jpeg)
+
+---
 
 ## Part 1 Details
 
@@ -131,6 +138,13 @@ Part 1 updates
 
 Part 2 Updates
 
+- Created and linked an external CSS stylesheet
+- Added a CSS reset to remove default browser spacing
+- Applied consistent base styling across all pages using font family, line height, colours and background colour
+- Added a luxury-inspired colour palette and typography
+- Applied typography styling using font size, font weight, letter spacing and text transformation
+- Improved header styling for a more polished travel brand look
+- Updated navigation links into unordered lists for better spacing and responsive styling
 - Used Flexbox to align and space the navigation links
 - Styled the hero image as a full-width banner
 - Styled images with controlled sizing and object-fit
@@ -149,8 +163,8 @@ Part 2 Updates
 - Tested the mobile layout at 375px width
 - Checked the header, navigation, hero image, sections, images and footer across different screen sizes
 - Added responsive design screenshots to the README
-- Added missing wireframes based on Part 1 feedback
-- Added wireframe images to the README to show the planned page layouts
+- Added missing wireframes based on Part 1 feedback and included them in README
+- Standardized image section spacing to improve readaility.
 
 ---
 
@@ -167,7 +181,10 @@ The website was tested using browser developer tools to check how the layout res
 ### Desktop View
 
 The desktop layout was tested at a width of 1366px. At this screen size, the navigation menu displays horizontally, the header remains centred, and the page content is presented in wide sections. The images also stay within their containers without breaking the layout.
+
 ![Desktop View](images/desktop-view.png)
+
+---
 
 ### Tablet View
 
@@ -175,11 +192,15 @@ The tablet layout was tested at a width of 768px using browser developer tools. 
 
 ![Tablet View](images/tablet-view.png)
 
+---
+
 ### Mobile Top View
 
 The mobile layout was tested at a width of 375px using browser developer tools. At this screen size, the navigation menu stacks vertically, the website title remains readable, and the hero image still displays below the header.
 
 ![Mobile Top View](./images/mobile-top-view.png)
+
+---
 
 ### Mobile Content View
 
@@ -187,11 +208,15 @@ The content sections were also tested on mobile to check that the text, images a
 
 ![Mobile Content View](images/mobile-content-view.png)
 
+---
+
 ### Mobile Footer View
 
 The footer was tested separately on mobile because the full page cannot fit into one narrow screenshot. The footer links, social media labels, contact details and copyright information remain readable and organised.
 
 ![Mobile Footer View](images/mobile-footer-view.png)
+
+---
 
 ### Testing Summary
 
@@ -201,12 +226,6 @@ The responsive testing showed that the website layout adjusts across desktop, ta
 
 This website was developed for educational purposes and demonstrates the use of HTML to create a structured multi-page website with clear navigation and organised content.
 
----
-## Image Sources
-
-All images used in this project were sourced from royalty-free platforms such as Unsplash and are used for educational purposes.
-
----
 ## References
 
 Tripadvisor. (2026). Available at: https://www.tripadvisor.com (Accessed: 11 April 2026).
