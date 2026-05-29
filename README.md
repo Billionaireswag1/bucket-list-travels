@@ -201,6 +201,12 @@ The responsive testing showed that the website layout adjusts across desktop, ta
 
 This website was developed for educational purposes and demonstrates the use of HTML to create a structured multi-page website with clear navigation and organised content.
 
+---
+## Image Sources
+
+All images used in this project were sourced from royalty-free platforms such as Unsplash and are used for educational purposes.
+
+---
 ## References
 
 Tripadvisor. (2026). Available at: https://www.tripadvisor.com (Accessed: 11 April 2026).
